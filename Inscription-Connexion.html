@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inscription / Connexion</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Inscription / Connexion</h1>
+    </header>
+    <main>
+        <section class="inscription">
+            <h2>Inscription</h2>
+            <form id="inscription-form">
+                <input type="text" id="username" placeholder="Nom d'utilisateur" required>
+                <input type="password" id="password" placeholder="Mot de passe" required>
+                <button type="submit">S'inscrire</button>
+                <p id="inscription-error" class="error-message"></p>
+            </form>
+            <img src="inscription_image.jpg" alt="Inscription" class="image">
+        </section>
+        <div class="separator"></div>
+        <section class="connexion">
+            <h2>Connexion</h2>
+            <form id="connexion-form">
+                <input type="text" id="username-login" placeholder="Nom d'utilisateur" required>
+                <input type="password" id="password-login" placeholder="Mot de passe" required>
+                <button type="submit">Se connecter</button>
+                <p id="connexion-error" class="error-message"></p>
+            </form>
+            <img src="connexion_image.jpg" alt="Connexion" class="image">
+        </section>
+    </main>
+    <footer>
+        <button onclick="window.location.href='index.html'">Accueil</button>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
