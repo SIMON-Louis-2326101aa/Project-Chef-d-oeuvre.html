@@ -30,7 +30,7 @@ section {
 }
 
 .inscription, .connexion {
-    background-color: #F0F8FF; /* Bleu Ciel */
+    background-color: #F0FFF0; /* HoneyDew */
     border: 5px solid #00CED1; /* DarkTurquoise */
     border-radius: 20px;
 }
