@@ -50,7 +50,6 @@ footer {
 button {
     background-color: #FF0000; /* Rouge */
     color: white;
-    flex-wrap: wrap;
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
