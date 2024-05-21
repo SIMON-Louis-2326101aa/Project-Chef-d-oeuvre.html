@@ -1,2 +1,2 @@
 Projet scolaire (News For All) crée par: YooJiyen (Coraline)
-Constitution : Html, Css, JavaScripte
+Constitution : Html, Css, JavaScript.
