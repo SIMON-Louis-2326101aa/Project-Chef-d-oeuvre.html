@@ -1,2 +1,2 @@
-Projet scolaire (News For All) crée par: YooJiyen (Coraline) \n
+Projet scolaire (News For All) crée par: YooJiyen (Coraline).
 Constitution : Html, Css, JavaScript.
